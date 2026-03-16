@@ -1,0 +1,8 @@
+firecrawl-py
+google-genai
+requests
+pandas
+streamlit
+plotly
+python-dotenv
+sqlite-utils

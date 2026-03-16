@@ -1,0 +1,41 @@
+{
+  "niche": "CRM for Small and Mid-Size Business",
+  "niche_description": "Customer relationship management platforms for SMBs to manage contacts, deals, and sales pipelines",
+  "brands": [
+    {
+      "name": "HubSpot",
+      "website": "hubspot.com",
+      "aliases": ["hubspot", "hub spot"]
+    },
+    {
+      "name": "Salesforce",
+      "website": "salesforce.com",
+      "aliases": ["salesforce", "sales force"]
+    },
+    {
+      "name": "Attio",
+      "website": "attio.com",
+      "aliases": ["attio"]
+    },
+    {
+      "name": "Pipedrive",
+      "website": "pipedrive.com",
+      "aliases": ["pipedrive", "pipe drive"]
+    },
+    {
+      "name": "Zoho CRM",
+      "website": "zoho.com/crm",
+      "aliases": ["zoho", "zoho crm"]
+    },
+    {
+      "name": "Close",
+      "website": "close.com",
+      "aliases": ["close", "close crm", "close.com"]
+    },
+    {
+      "name": "Freshsales",
+      "website": "freshworks.com/crm/sales",
+      "aliases": ["freshsales", "freshworks crm", "freshworks"]
+    }
+  ]
+}

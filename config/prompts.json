@@ -1,0 +1,112 @@
+{
+  "niche": "CRM for Small and Mid-Size Business",
+  "prompt_categories": [
+    "general_recommendation",
+    "comparison",
+    "use_case_specific",
+    "pricing_value",
+    "feature_specific"
+  ],
+  "prompts": [
+    {
+      "id": 1,
+      "text": "What is the best CRM for small businesses in 2026?",
+      "category": "general_recommendation"
+    },
+    {
+      "id": 2,
+      "text": "Which CRM should a startup use to manage their first sales pipeline?",
+      "category": "general_recommendation"
+    },
+    {
+      "id": 3,
+      "text": "What CRM do most small businesses use?",
+      "category": "general_recommendation"
+    },
+    {
+      "id": 4,
+      "text": "What is the best CRM for a B2B SaaS company?",
+      "category": "use_case_specific"
+    },
+    {
+      "id": 5,
+      "text": "Compare HubSpot vs Salesforce for a small business with 10 employees",
+      "category": "comparison"
+    },
+    {
+      "id": 6,
+      "text": "Is Attio better than HubSpot for startups?",
+      "category": "comparison"
+    },
+    {
+      "id": 7,
+      "text": "Pipedrive vs HubSpot which is better for sales teams?",
+      "category": "comparison"
+    },
+    {
+      "id": 8,
+      "text": "What is the best free CRM software?",
+      "category": "pricing_value"
+    },
+    {
+      "id": 9,
+      "text": "Which CRM has the best free tier for startups?",
+      "category": "pricing_value"
+    },
+    {
+      "id": 10,
+      "text": "What is the most affordable CRM for small teams?",
+      "category": "pricing_value"
+    },
+    {
+      "id": 11,
+      "text": "Best CRM for real estate agents",
+      "category": "use_case_specific"
+    },
+    {
+      "id": 12,
+      "text": "Which CRM is best for managing client relationships at a marketing agency?",
+      "category": "use_case_specific"
+    },
+    {
+      "id": 13,
+      "text": "Best CRM for freelancers and solo consultants",
+      "category": "use_case_specific"
+    },
+    {
+      "id": 14,
+      "text": "Zoho CRM vs Freshsales which one is better?",
+      "category": "comparison"
+    },
+    {
+      "id": 15,
+      "text": "What CRM has the best automation features for follow-ups and email sequences?",
+      "category": "feature_specific"
+    },
+    {
+      "id": 16,
+      "text": "Which CRM integrates best with Gmail and Google Workspace?",
+      "category": "feature_specific"
+    },
+    {
+      "id": 17,
+      "text": "What CRM has the best reporting and sales analytics?",
+      "category": "feature_specific"
+    },
+    {
+      "id": 18,
+      "text": "What is the easiest CRM to set up and learn?",
+      "category": "feature_specific"
+    },
+    {
+      "id": 19,
+      "text": "Attio vs Pipedrive vs Close which CRM is best for outbound sales?",
+      "category": "comparison"
+    },
+    {
+      "id": 20,
+      "text": "Which CRM is best for a remote team that sells B2B services?",
+      "category": "use_case_specific"
+    }
+  ]
+}
