@@ -24,6 +24,8 @@ from src.analytics.competitive import (
     head_to_head, gap_analysis, category_heatmap_data, source_domain_analysis
 )
 from src.analytics.ai_insights import generate_insights
+from startup import ensure_data_exists
+ensure_data_exists()
 
 
 # ===== PAGE CONFIG =====
