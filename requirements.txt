@@ -2,7 +2,7 @@ firecrawl-py
 google-genai
 requests
 pandas
-streamlit
+streamlit>=1.45.0
 plotly
 python-dotenv
 sqlite-utils
